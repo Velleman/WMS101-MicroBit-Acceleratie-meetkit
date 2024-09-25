@@ -12,4 +12,6 @@ Weinig bedrading!
 + Educatief: Leer alles rondom acceleratie en krachten uitgeoefend op een object, ideaal voor in de lessen fysica!
 + Creativiteit: uitbreidbaar via de motorshield! Connecteer extra sensoren en motoren op de shield en ontdek de wereld!
 
-+ 
+De meegelverde MicroBit is voorgeprogrammeerd, de broncode kan hierboven gedownload worden.
+
+Link naar productpagina: https://www.velleman.eu/products/view/?id=470474
