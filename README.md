@@ -12,7 +12,6 @@ Weinig bedrading!
 + Creativiteit: uitbreidbaar via de motorshield! Connecteer extra sensoren en motoren op de shield en ontdek de wereld!
 
 De meegelverde MicroBit is voorgeprogrammeerd, de broncode kan hierboven gedownload worden.
-Het meegeleverde aansluitschema kan je hier ook downloaden.
 
 Link naar productpagina: https://www.velleman.eu/products/view/?id=470474
 
