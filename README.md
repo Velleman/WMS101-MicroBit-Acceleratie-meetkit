@@ -1,17 +1,13 @@
-# WMS101-MicroBit-Acceleratie-meetkit
+# WMS101 MicroBit Acceleration Measurement Kit
 
-Ontdek de MicroBit Acceleratie Meetkit met 0.96-inch OLED-scherm en Motorshield: Perfect voor leerkrachten en studenten om STEM-leren te stimuleren door versnellingsmetingen te combineren met bewegingsprojecten. Programmeer de Micro:Bit, bekijk gegevens op het heldere OLED-scherm en stuur motoren aan voor een boeiende leerervaring. Start vandaag nog uw STEM-reis en breng versnelling tot leven in de klas!
+Discover the MicroBit Acceleration Measurement Kit with a 0.96-inch OLED screen and Motorshield: Perfect for teachers and students to promote STEM learning by combining acceleration measurements with movement projects. Program the MicroBit,
+view data on the bright OLED screen, and control motors for an engaging learning experience. Start your STEM journey today and bring acceleration to life in the classroom!
 
-STEM-project
-Geintegreerde accelerometer via de Microbit®
-Soldeer vrij experimenteren!
-Weinig bedrading!
-0.96" 128x64 pixels OLED display
+STEM Project: Integrated accelerometer via Microbit® - Solder-free experimentation! Minimal wiring! 0.96" 128x64 pixels OLED display.
 
-+ Educatief: Leer alles rondom acceleratie en krachten uitgeoefend op een object, ideaal voor in de lessen fysica!
-+ Creativiteit: uitbreidbaar via de motorshield! Connecteer extra sensoren en motoren op de shield en ontdek de wereld!
+Educational: Learn all about acceleration and forces exerted on an object, ideal for physics lessons! Creativity: Expandable via the motorshield! Connect additional sensors and motors to the shield and explore the world!
 
-De meegelverde MicroBit is voorgeprogrammeerd, de broncode kan hierboven gedownload worden.
+The included MicroBit is pre-programmed, and the source code can be downloaded above.
 
-Link naar productpagina: https://www.velleman.eu/products/view/?id=470474
+Link to productpagina: [https://www.velleman.eu/products/view/?id=470474](https://www.velleman.eu/products/view/?id=470474)
 
